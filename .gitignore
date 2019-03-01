@@ -22,5 +22,10 @@ setup.log
 # Merlin configuring file for Vim and Emacs
 .merlin
 
+# BuckleScript
+/lib/bs/
+.merlin
+.bsb.lock
+
 # Nodejs
 node_modules
